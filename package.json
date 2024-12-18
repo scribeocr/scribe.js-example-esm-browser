@@ -10,7 +10,7 @@
   "author": "Balearica",
   "license": "AGPL-3.0",
   "dependencies": {
-    "scribe.js-ocr": "^0.2.3"
+    "scribe.js-ocr": "^0.6.1"
   },
   "devDependencies": {
     "http-server": "^14.1.1"
